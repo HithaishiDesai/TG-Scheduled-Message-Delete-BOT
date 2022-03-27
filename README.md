@@ -15,7 +15,7 @@ Delete group messages after a specific time `INCLUDING MESSAGES FROM BOTS`
 - Account used to create SESSION is <b> ADMIN </b> in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HithaishiDesai/TG-Scheduled-Message-Delete-BOT)
+ [![Deploy](https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg)](https://heroku.com/deploy?template=https://github.com/HithaishiDesai/TG-Scheduled-Message-Delete-BOT)
 
 ## Deploy in your VPS
 
