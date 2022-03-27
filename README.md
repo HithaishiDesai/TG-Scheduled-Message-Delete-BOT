@@ -1,4 +1,4 @@
-# **AUTO DELETE BOT**
+# **TG-Scheduled-Message-Delete-BOT**
 Delete group messages after a specific time `INCLUDING MESSAGES FROM BOTS`
 
 ## Variables
