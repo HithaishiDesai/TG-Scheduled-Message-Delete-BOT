@@ -28,4 +28,5 @@ python3 bot.py
 ```
 
 ### Credits
-- [😎 𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜 😎](https://t.me/Hithaishi_Desai)
+- 
+- All Credits To [ARUN](https://t.me/arun_tg)
