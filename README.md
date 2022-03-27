@@ -15,12 +15,12 @@ Delete group messages after a specific time `INCLUDING MESSAGES FROM BOTS`
 - Account used to create SESSION is <b> ADMIN </b> in Groups
 
 ## Deploy in Heroku
- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HithaishiDesai/Auto-Delete-Bot/tree/MODIFIED)
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HithaishiDesai/TG-Scheduled-Message-Delete-BOT)
 
 ## Deploy in your VPS
 
 ```sh
-git clone https://github.com/HithaishiDesai/Auto-Delete-Bot/tree/MODIFIED
+git clone https://github.com/HithaishiDesai/TG-Scheduled-Message-Delete-BOT
 cd AutoDelete-V2
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -28,5 +28,4 @@ python3 bot.py
 ```
 
 ### Credits
-- 
 - All Credits To [ARUN](https://t.me/arun_tg)
