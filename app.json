@@ -1,0 +1,52 @@
+{
+  "name": "AUTO DELETE BOT",
+  "description": "Delete group messages after a specific time INCLUDING MESSAGES FROM BOTS",
+  "keywords": [
+    "telegram",
+    "delete",
+    "bot"
+  ],
+  "repository": "https://github.com/HithaishiDesai/Auto-Delete-Bot/tree/MODIFIED",
+  "logo": "https://telegra.ph/file/8607f9e32487edf2f1345.jpg",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Get it from @Botfather",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Your telegram API ID, Get it from my.telegram.org",
+      "value": ""
+    },
+    "API_HASH":{
+      "description": "Your telegram API HASH, Get it from my.telegram.org",
+      "value": ""
+    },
+    "SESSION":{
+      "description": "Pyrogram session generated from https://replit.com/@HithaishiDesai/STRING-SESSION",
+      "value": ""
+    },
+    "ADMINS":{
+      "description": "ID of admins",
+      "value": ""
+    },
+    "GROUPS":{
+      "description": "ID of the groups where the bot work (seperate by spaces)  EXAMPLE : -1001274443179",
+      "value": ""
+    },
+    "TIME": {
+      "description": "Time in seconds",
+      "value": "300"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
